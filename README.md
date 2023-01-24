@@ -9,6 +9,43 @@ I am also interested in Internet of Things related technologies, such as Arduino
  🚨 🚨 🚨
 I am able to participate and integrate a project within a team, my knowledge in terms of AGILE methodologies, especially Scrum, is an integral part of me and I am constantly putting them into practice within a team..</h4>
 
+![GitHub contributors](https://img.shields.io/github/contributors/delannoykurt/delannoykurt?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/delannoykurt/delannoykurt?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/delannoykurt/delannoykurt?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/delannoykurt/delannoykurt?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/delannoykurt/delannoykurt?style=for-the-badge)
+
+
+## Checklist Technology
+
+- [ ] **Techonology**
+    - Practices
+        - [ ] Git
+        - [ ] Vim
+        - [ ] Docker
+        - [ ] Jira
+        - [ ] Javascript
+        - [ ] Typescript
+        - [ ] NodeJS
+        - [ ] Angular
+    - Learning
+        - [ ] Javascript
+        - [ ] Typescript
+        - [ ] Git
+        - [ ] Ansible
+        - [ ] Puppet
+        - [ ] Chef
+        - [ ] Docker
+        - [ ] Kubernetes
+        - [ ] Jenkins
+        - [ ] Nagios
+        - [ ] Prometheus
+        - [ ] Selenium
+        - [ ] AWS
+        - [ ] Azure
+        - [ ] GCP
+        - [ ] Slack
+        - [ ] Jira
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt&label=Profile%20views&color=0e75b6&style=flat" alt="kurt" /> </p>

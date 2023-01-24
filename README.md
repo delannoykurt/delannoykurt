@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, 
+<h4 align="center">Hi 👋, 🤪 🤩 🤘
+  
 I'm a passionate developer with expertise in JavaScript, TypeScript, Node.js and Docker. These technologies are the ones I use most often to create powerful web applications and back-end services. I am constantly looking for new ways to optimize and develop these technologies, using best practices and the latest trends. In parallel, I am also discovering the Go and Rust languages and intend to learn them. These languages have great potential for high performance applications, and I am eager to use them to create innovative projects. 
   
-I am also interested in Internet of Things related technologies, such as Arduino and Raspberry, and use them to create model making projects. In addition to my technical skills, I also have strong problem solving skills, team cooperation and communication, adaptability, calmness, motivation, self-reliance, and discernment. I am able to participate and integrate a project within a team, my knowledge in terms of AGILE methodologies, especially Scrum, is an integral part of me and I am constantly putting them into practice within a team..</h1>
+  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍  👍
+  
+I am also interested in Internet of Things related technologies, such as Arduino and Raspberry, and use them to create model making projects. In addition to my technical skills, I also have strong problem solving skills, team cooperation and communication, adaptability, calmness, motivation, self-reliance, and discernment. 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+ 🚨 🚨 🚨
+I am able to participate and integrate a project within a team, my knowledge in terms of AGILE methodologies, especially Scrum, is an integral part of me and I am constantly putting them into practice within a team..</h4>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt&label=Profile%20views&color=0e75b6&style=flat" alt="kurt" /> </p>
 

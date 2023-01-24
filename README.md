@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm 2 / 2 Je suis un développeur passionné avec une expertise en JavaScript, TypeScript, Node.js et Docker. Ces technologies sont celles que j'utilise le plus souvent pour créer des applications web et des services back-end performants. Je suis constamment à la recherche de nouvelles manières d'optimiser et de développer ces technologies, en utilisant les meilleures pratiques et les dernières tendances. En parallèle, je suis également en train de découvrir les langages Go et Rust et j'ai l'intention de les apprendre. Ces langages ont un fort potentiel pour les applications à haute performance, et je suis impatient de les utiliser pour créer des projets innovants. Je suis également intéressé par les technologies liées à l'Internet des objets, comme Arduino et Raspberry, et je les utilise pour créer des projets de modélisme. En plus de mes compétences techniques, je suis également doté de solides compétences en résolution de problèmes, coopération et communication en équipe, adaptabilité, calme, motivation, autonomie et discernement. Je suis en mesure de participer et d'intégrer un projet au sein d'une équipe, mes connaissances en termes de méthodologies AGILE, notamment Scrum, font partie intégrante de moi et je suis en permanence en train de les mettre en pratique au sein d'une équipe. Vous pouvez retrouver mes projets sur mon profil Github.</h1>
+<h1 align="center">Hi 👋, 
+I'm a passionate developer with expertise in JavaScript, TypeScript, Node.js and Docker. These technologies are the ones I use most often to create powerful web applications and back-end services. I am constantly looking for new ways to optimize and develop these technologies, using best practices and the latest trends. In parallel, I am also discovering the Go and Rust languages and intend to learn them. These languages have great potential for high performance applications, and I am eager to use them to create innovative projects. 
+  
+I am also interested in Internet of Things related technologies, such as Arduino and Raspberry, and use them to create model making projects. In addition to my technical skills, I also have strong problem solving skills, team cooperation and communication, adaptability, calmness, motivation, self-reliance, and discernment. I am able to participate and integrate a project within a team, my knowledge in terms of AGILE methodologies, especially Scrum, is an integral part of me and I am constantly putting them into practice within a team..</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt&label=Profile%20views&color=0e75b6&style=flat" alt="kurt" /> </p>
@@ -9,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/delannoykurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delannoykurt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kurt-delannoy-76b2b7254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delannoykurt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

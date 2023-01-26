@@ -15,8 +15,9 @@ I am able to participate and integrate a project within a team, my knowledge in 
 ![GitHub issues](https://img.shields.io/github/issues/delannoykurt/delannoykurt?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/delannoykurt/delannoykurt?style=for-the-badge)
 
+<details>
 
-## Checklist Technology
+  <summary>  <h2> Checklist Technology </h2> </summary>
 
 - [ ] **Techonology**
     - Practices
@@ -47,7 +48,7 @@ I am able to participate and integrate a project within a team, my knowledge in 
         - [ ] Slack
         - [ ] Jira
 
-
+</details>
 
 
 <p align="left">
